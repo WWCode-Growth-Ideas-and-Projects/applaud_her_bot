@@ -6,7 +6,7 @@ This bot fetches the latest Applaud her Posts from Women Who Code Website sectio
 
 #### Image-Sample:
 
- ![Screenshot 2020-06-03 at 12.52.04 AM](/Users/archanaiyer/Desktop/Screenshot 2020-06-03 at 12.52.04 AM.png)
+![Image-Sample](https://github.com/varchanaiyer/applaud_her_bot/blob/master/figs/bot-look.png)
 
 
 
@@ -55,7 +55,7 @@ This bot is very easy to implement. It barely takes 10-15 lines of code!
 
    3) After this you will arrive at this page, you can choose to add features or move on.
 
-   ![Screenshot 2020-06-03 at 7.05.17 PM](/Users/archanaiyer/Library/Application Support/typora-user-images/Screenshot 2020-06-03 at 7.05.17 PM.png)
+   ![add-features](https://github.com/varchanaiyer/applaud_her_bot/blob/master/figs/basic-functionality.png)
 
    
 
